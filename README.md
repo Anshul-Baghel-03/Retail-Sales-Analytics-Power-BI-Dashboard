@@ -56,3 +56,6 @@ Filters & Slicers: City, Month, Product, Day for dynamic exploration.
 
 **📌 Project Outcome**
 An interactive Retail Sales Power BI Dashboard that enabled stakeholders to monitor key KPIs, identify top-performing products and cities, and optimize sales strategies by understanding demand patterns and profitability.
+
+**Dashboard Link-**
+https://www.novypro.com/profile_projects/anshulbaghel?Popup=memberProject&Data=1708502944092x252818154026111400
